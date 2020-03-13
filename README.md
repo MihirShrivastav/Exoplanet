@@ -1,4 +1,4 @@
 A python-based machine learning classifier that uses PCA to reduce dimensionality and SMOTE to iron out non-uniform target class distribution. SVM implementation to classify unlabelled data.
 
-
-*big thanks to Nagesh Singh Chauhan of towardsdatascience for the blog which served as the motivation to start this project*
+The algorithm uses the imblearn library and SMOTE class. This package may not be pre-installed on your IDE. 
+For installation guide, visit https://imbalanced-learn.readthedocs.io/en/stable/generated/imblearn.over_sampling.SMOTE.html
